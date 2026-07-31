@@ -1,0 +1,9 @@
+Package: com.nyx.nsfwenable
+Name: NSFWEnable
+Depends: mobilesubstrate
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Force enable nsfw_toggle in NSUserDefaults
+Maintainer: Nyx
+Author: Nyx
+Section: Tweaks
