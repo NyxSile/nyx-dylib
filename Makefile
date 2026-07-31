@@ -7,5 +7,6 @@ TWEAK_NAME = NSFWEnable
 
 NSFWEnable_FILES = Tweak.x
 NSFWEnable_CFLAGS = -fobjc-arc
+NSFWEnable_INSTALL_PATH = /Library/MobileSubstrate/DynamicLibraries
 
 include $(THEOS_PATH)/makefiles/tweak.mk
